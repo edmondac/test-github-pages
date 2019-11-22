@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to [GitHub Pages](https://edmondac.github.io/test-github-pages/)
 
 You can use the [editor on GitHub](https://github.com/edmondac/test-github-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
